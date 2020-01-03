@@ -4,9 +4,7 @@ tags: Eslint 前端
 date: 2020/1/2 20:20:20
 ---
 
-## Eslint-前端代码规范检查
-
-#### 什么是eslint
+### 什么是eslint
 
 ESLint 是一个开源的 JavaScript 代码检查工具，由 Nicholas C. Zakas 于2013年6月创建。代码检查是一种静态的分析，常用于寻找有问题的模式或者代码，并且不依赖于具体的编码风格。对大多数编程语言来说都会有代码检查，一般来说编译程序会内置检查工具。
 
@@ -16,7 +14,7 @@ ESLint 的初衷是为了让程序员可以创建自己的检测规则。ESLint 
 
 ESLint 使用 Node.js 编写，这样既可以有一个快速的运行环境的同时也便于安装。
 
-#### eslint的特性
+### eslint的特性
 
 eslint的使用非常自由，它拥有以下几个特性
 
@@ -24,7 +22,7 @@ eslint的使用非常自由，它拥有以下几个特性
 - 任意的rule 都是独立的 ，你可以选择是否开启某个rule，这取决于你和你的团队的代码习惯
 - 没有特定的coding style，你可以自己配置
 
-#### 如何使用eslint
+### 如何使用eslint
 
 首先在你的项目中安装eslint，在项目根目录中运行：
 
@@ -42,7 +40,7 @@ $ ./node_modules/.bin/eslint --init
 
 接着eslint会在你的项目根目录下生成一个配置文件`.eslintrc`，里面是刚刚根据你的回答而生成的配置项，如果你的想法有改变可以随时修改里面的配置。
 
-#### 如何配置eslint
+### 如何配置eslint
 
 打开配置文件你会看到，配置文件主要分成以下几个部分：
 
@@ -71,7 +69,7 @@ $ ./node_modules/.bin/eslint --init
 
 其他详细的配置可以查看[官方文档](https://cn.eslint.org/docs/user-guide/configuring)
 
-#### 如何在VSCode中配置ESlint
+### 如何在VSCode中配置ESlint
 
 打开VSCode，选择文件 -> 首选项 ->设置，在工作区设置的扩展中找到eslint，勾选Eslint：Enable，这时项目根目录会出现一个工作区设置文件`settings.json`，在这个文件中你可以对工作区的设置进行设置。
 
@@ -93,7 +91,7 @@ $ ./node_modules/.bin/eslint --init
 }
 ```
 
-#### 规则参考 - AlloyTeam ESLint
+### 规则参考 - AlloyTeam ESLint
 
 eslint支持非常多的规则检查，那么使用或不使用哪些规则呢？不同的团队有不同的意见。这里推荐腾讯的AlloyTeam规则作为参考。
 
@@ -101,7 +99,7 @@ AlloyTeam ESLint 规则不仅是一套先进的适用于 React/Vue/Typescript �
 
 具体的使用方法可以阅读[AllotTeam的文档](https://github.com/AlloyTeam/eslint-config-alloy)
 
-#### 各司其职-eslint和prettier结合使用
+### 各司其职-eslint和prettier结合使用
 
 Prettier 是一个代码格式化工具，相比于 ESLint 中的代码格式规则，它提供了更少的选项，但是却更加专业。
 
