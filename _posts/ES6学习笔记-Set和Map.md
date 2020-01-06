@@ -1,5 +1,14 @@
-title: ES6学习笔记-Set和Map
 ---
+title: ES6学习笔记-Set和Map
+date: 2018/11/17 20:46:25
+tags: 
+- ECMAScript
+- JavaScript
+- 读书笔记
+categories: 
+- 技术
+---
+
 大家知道，在ES5中，我们拥有两种数据数据结构，Array和Object。但是它们的功能还不够全面。于是在ES6中又为我们提供了两个新的数据结构，Set和Map。
 <!--more-->
 

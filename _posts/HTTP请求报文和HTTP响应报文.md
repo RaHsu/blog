@@ -1,5 +1,13 @@
-title:HTTP请求报文和HTTP响应报文
 ---
+title: HTTP请求报文和HTTP响应报文
+date: 2018/2/9 20:46:25
+tags: 
+- HTTP
+- 网络
+categories: 
+- 技术
+---
+
 　HTTP是一个应用层协议，由请求和响应构成，是一个标准的客户端服务器模型。HTTP是一个无状态的协议。
 <!--more-->
 

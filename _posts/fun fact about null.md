@@ -1,5 +1,14 @@
-tilte: fun fact about null
 ---
+title: fun fact about null
+date: 2019/5/9 20:46:25
+tags: 
+- ECMAScript
+- JavaScript
+- 读书笔记
+categories: 
+- 技术
+---
+
 最近在看《你不知道的JavaScript》这本书，发现了一些关于null的有趣事实。
 <!-- more -->
 

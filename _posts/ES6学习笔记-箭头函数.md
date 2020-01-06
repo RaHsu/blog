@@ -1,5 +1,14 @@
-title: ES6学习笔记-箭头函数
 ---
+title: ES6学习笔记-箭头函数
+date: 2018/11/17 20:46:25
+tags: 
+- ECMAScript
+- JavaScript
+- 读书笔记
+categories: 
+- 技术
+---
+
 箭头函数是ES6中一个新增的特性，今天我们就来看看它是如何使用的。
 <!--more-->
 

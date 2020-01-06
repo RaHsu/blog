@@ -1,5 +1,12 @@
+---
 title: 《高性能JavaScript》读书笔记
-
+date: 2019/1/3 20:46:25
+tags: 
+- JavaScript
+- 读书笔记
+categories: 
+- 技术
+---
 ### 第一章  加载和执行
 
 #### 脚本位置

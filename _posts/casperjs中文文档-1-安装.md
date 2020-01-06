@@ -1,5 +1,13 @@
-title: CasperJS中文文档-1-安装
 ---
+title: CasperJS中文文档-1-安装
+date: 2018/8/17 20:46:25
+tags: 
+- casperjs
+- JavaScript
+categories: 
+- 技术
+---
+
 casperjs中文文档正式开坑。
 <!-- more -->
 ### 安装

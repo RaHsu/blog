@@ -1,4 +1,11 @@
+---
 title: 用canvas制作一个简单的随机验证码
+date: 2018/6/17 20:46:25
+tags: 
+- canvas
+- JavaScript
+categories: 
+- 技术
 ---
 现在验证码在网页表单中几乎是标配，用来防止机器人攻击网站，今天我们就用canvas和js来写一个简单的随机二维码。
 <!-- more-->

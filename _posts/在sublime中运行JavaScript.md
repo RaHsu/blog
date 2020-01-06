@@ -1,5 +1,13 @@
-title: 在sublime中运行JavaScript脚本
 ---
+title: 在sublime中运行JavaScript脚本
+date: 2019/6/17 20:46:25
+tags: 
+- sublime
+- JavaScript
+categories: 
+- 技术
+---
+
 sublime是一款轻量级的文本编辑器，非常受大家的欢迎，它不仅启动迅速，还提供非常丰富的插件供大家扩展功能。对于我个人来讲，我非常喜欢用sublime编写单个的脚本文件。但是前端的小伙伴们知道，如果编写js脚本，要编译运行的话必须在浏览器或者是node中运行，虽然不麻烦，但总归还是会消耗一些时间，对于一些简单的脚本，我们想能够立即看到脚本运行的结果，那么今天我就介绍一个可以直接在sublime中运行js脚本文件的方法。
 
 <!--more-->

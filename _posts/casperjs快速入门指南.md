@@ -1,8 +1,13 @@
-title: casper快速入门指南
-tags:
-- JavaScript
-- casperjs
 ---
+title: casper快速入门指南
+date: 2018/6/17 20:46:25
+tags: 
+- casperjs
+- JavaScript
+categories: 
+- 技术
+---
+
 最近在师兄的安利之下看了一下casperjs，发现它是一个不错的自动化工具，可惜官方并没有中文文档，所以在这里写个快速入门，方便大家快速的了解casperjs到底是个什么东西以及怎么样使用它。
 <!--more-->
 

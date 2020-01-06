@@ -1,5 +1,13 @@
-title: HTTP状态码
 ---
+title: HTTP状态码
+date: 2018/1/9 20:46:25
+tags: 
+- HTTP
+- 网络
+categories: 
+- 技术
+---
+
 HTTP状态码的分类以及它们的含义。
 <!--more-->
 ## HTTP状态码
